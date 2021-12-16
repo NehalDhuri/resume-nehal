@@ -83,3 +83,7 @@ a{
 a:hover{
     color: #adb5bd;
 }
+
+footer{
+    margin-bottom: 25px;
+}
